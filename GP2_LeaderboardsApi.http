@@ -1,0 +1,6 @@
+@GP2_LeaderboardsApi_HostAddress = http://localhost:5125
+
+GET {{GP2_LeaderboardsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
